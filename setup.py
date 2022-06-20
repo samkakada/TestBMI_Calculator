@@ -1,4 +1,4 @@
-from setuptools import setup
+from distutils.core import setup
 
 setup(name='SKD_Calculator',
       version='0.1.0',
